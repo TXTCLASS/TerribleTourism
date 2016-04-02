@@ -366,7 +366,7 @@
       //fade out animation with callback
       quoteContainer.fadeOut(timeAnimation, function(){
         quoteContainer.html('');
-				quoteContainer.append('<p>'+newQuoteText+'</p>'+'<p id="quotePlace">'+'<i class="fa fa-map-marker"></i>&nbsp;'+newQuotePlace+'</p>');
+				quoteContainer.append('<p class="lead">'+newQuoteText+'</p>'+'<h3 class="cover-heading" id="quotePlace">'+'<i class="fa fa-map-marker"></i>&nbsp;'+newQuotePlace+'</h3>');
         
         //fadein animation.
         quoteContainer.fadeIn(timeAnimation);
