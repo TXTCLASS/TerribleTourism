@@ -1,5 +1,5 @@
 body{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #000;
 }
 
@@ -9,18 +9,23 @@ body{
 	padding: 20px;
 	width:50%;
 }
-#container h2{
+.headline{
+	font-size: 50px;
+	line-height: 1.0;
 	text-align:center;
 	color:#045;
 }
-
+.headline small{
+	font-size: 50%;
+	line-height: 0.5;
+}
 #quoteContainer{
 	width:75%;
-	background: #fff;
+	font-size: 20px;
 	padding:10px;
 	margin:30px auto;
 	text-align: center;
-  height:70px;
+  	height:70px;
 }
 #buttonContainer{
 	width: 100%;
@@ -28,11 +33,12 @@ body{
 }
 #quoteButton{
 	width:200px;
-	margin-top: 10px;
+	margin-top: 180px;
 	border:2px solid #46b8da;
 	color:#045;
 	font-family: inherit;
 	font-weight: bold;
+	font-size: 24px;
 	padding:5px;
 	text-decoration: none;
 	text-align: center;
