@@ -1,7 +1,8 @@
-# Tourism Word Salad
-## A collection of sentences I came across while translating content from one language to another using Google Translate.
+# Tourism Word Salad#
 
-### >"Clothing is minimal; bodies bronzed and beautiful and the famous Copacabana and Ipanema beaches are a Mecca for Brazilians and tourists alike."
+> ###Clothing is minimal; bodies bronzed and beautiful and the famous Copacabana and Ipanema beaches are a Mecca for Brazilians and tourists alike.
+
+####A collection of sentences I came across while translating content from one language to another using Google Translate.
 
 live: *https://txtclass.github.io/TourismWordSalad*
 
@@ -14,5 +15,4 @@ Well because Google Translate can do a great job of translating, it's only a mac
 Yes, a word salad is an almost incoherent sentence produced by typing too fast and/or not proof-reading. I thought it was a rather fitting term to describe the weird results Google Translate produced. I added "Tourism" to reflect the general context these sentences should be put in.
 
 ### Attribution:
-![Salad Icon](http://txtclass.github.io/TourismWordSalad/img/android-icon-96x96.png "Salad Icon")
-Salad Icon by Peter Chlebak via Noun Project - *https://thenounproject.com/molandbarley/*
+Salad Icon by Peter Chlebak via Noun Project - *https://thenounproject.com/molandbarley/* ![Salad Icon](http://txtclass.github.io/TourismWordSalad/img/android-icon-96x96.png "Salad Icon")
