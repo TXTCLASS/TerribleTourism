@@ -6,11 +6,11 @@
 			place:"Shanghai, China"
 	    },
 	    {
-	    	quote:"But once the visitor drops down to street level, the profusion of traffic, tourists and touts can remove all sense of tranquility.",
+	    	quote:"Once on the street level with the profusion of traffic and tourists, can remove all sense of tranquility.",
 	    	place:"Shanghai, China"
 	    },
 	    {
-	    	quote:"Additionally, the surrounding garden helps create a pleasant atmosphere in which you can feel comfortable in a relaxed manner.",
+	    	quote:"Additionally, the surrounding gardens helps create a pleasant atmosphere in which you can feel comfortable in a relaxed manner.",
 	    	place:"Shanghai, China"
 	    },
 	    /* CBrazil */
@@ -71,11 +71,11 @@
 	    	place:"Neuschwanstein, Germany"
 	    },
 	    {
-	    	quote:"The first concentration camp was constructed in Dachau, just outside the medieval town, where today stands a Memorial Site.",
+	    	quote:"The first concentration camp was constructed in Dachau, just outside the medieval town, today stands a memorial site.",
 	    	place:"Dachau, Germany"
 	    },
 	    {
-	    	quote:"The gate had the words 'Arbeit Macht Frei' (Freedom Through Work) on it, which served only to mislead the prisoners, who thought that they would be freed if they worked hard, whereas the only freedom that awaited them, was through death.",
+	    	quote:"The gate had the words 'Arbeit Macht Frei' (Freedom Through Work) on it, which served only to mislead the prisoners, who thought that they would be freed if they worked hard, whereas the only freedom that awaited them was through death.",
 	    	place:"Dachau, Germany"
 	    },
 	    {
@@ -149,7 +149,7 @@
 	    	place:"Mallorca, Spain"
 	    },
 	    {
-	    	quote:"This region is a land of sensual pleasures. Listen to the sounds of flamenco echoing through the warm summer nights or satisfy your hunger at the Andalucian table, overflowing with the country's finest olives, famous Sherries, and the legendary mountain hams of Trevélez and Jabugo.",
+	    	quote:"This region is a land of sensual pleasures. Listen to the sounds of flamenco echoing through the warm summer nights or satisfy your hunger at the Andalucian table, overflowing with the country's finest legendary mountain hams of Trevélez and Jabugo.",
 	    	place:"Barcelona, Spain"
 	    },
 	    {
@@ -187,9 +187,10 @@
 	    },
 	    /* CSweden */
 	    {
-	    	quote:"No other city in Sweden has such national importance, history and culture and no other city offers the inspiration to learn Swedish the way Stockholm does!",
+	    	quote:"No other city in Sweden has such national importance, history and culture the way Stockholm does!",
 	    	place:"Stockholm, Sweden"
 	    },
+	    /* CMontreal */
 	    {
 	    	quote:"The eighty ethnic communities and four universities reflect Montréal’s vitality.",
 	    	place:"Montréal, Canada"
@@ -222,7 +223,7 @@
 	    },
 	    /* CDenmark */
 	    {
-	    	quote:"If you love the sea, Denmark could be the perfect destination for you as in addition to beautiful, long sandy beaches.",
+	    	quote:"If you love the sea, you will yearn for Denmark with its beautiful and long sandy beaches.",
 	    	place:"Copenhagen, Denmark"
 	    },
 	    {
@@ -236,7 +237,7 @@
 	    },
 	    /* CNorway */
 	    {
-	    	quote:"You may have seen some pictures of the country’s beautiful fjords, or perhaps prints of that famous and emotional painting, The Scream, by Norwegian artist Edward Munch.",
+	    	quote:"You may have seen some pictures of the country’s famous and emotional painting, The Scream, by Norwegian artist Edward Munch.",
 	    	place:"Oslo, Norway"
 	    },
 	    /* CSouth Korea */
@@ -266,7 +267,7 @@
 	    	place:"Paris, France"
 	    },
 	    {
-	    	quote:"Walking through labyrinths of narrow streets gives a really great pleasure",
+	    	quote:"Walking through labyrinths of narrow streets gives a really great pleasure.",
 	    	place:"Tours, France"
 	    },
 	    {
@@ -274,11 +275,11 @@
 	    	place:"Cannes, France"
 	    },
 	    {
-	    	quote:"Cannes is crammed with more money, more champagne, more mobile phones and more cleavage than anywhere else in the world.",
+	    	quote:"Cannes is crammed with more money, more champagne, more mobile phones and more cleavage than anywhere else in the world!",
 	    	place:"Cannes, France"
 	    },
 	    {
-	    	quote:"The cathedral is the finest example, and provides a rare opportunity to experience the former U.S.S.R.",
+	    	quote:"The cathedral is the fine example, and provides a rare opportunity to experience the former U.S.S.R.",
 	    	place:"Cannes, France"
 	    },
 	    {
@@ -295,7 +296,7 @@
 	    	place:"Monaco"
 	    },
 	    {
-	    	quote:"This is the playground of Europe's elite, a country where lady luck might clean you out at the casino one day and put you on the VIP list the next!",
+	    	quote:"This is the playground of Europe's elite, a country where lady luck might clean you out at the casino one day, and put you on the VIP list the next!",
 	    	place:"Monaco"
 	    },
 	    /* CCuba */
@@ -328,7 +329,7 @@
 	    },
 	    /* CRussia */
 	    {
-	    	quote:"Nowhere other than in Moscow are Russia's contrasts more apparent: ancient monasteries and ultra-modern monoliths stand side by side while new Russian millionaires and poverty stricken pensioners walk the same city streets.",
+	    	quote:"Nowhere other than in Moscow are Russia's contrasts more apparent as ancient monasteries and ultra-modern monoliths stand side by side while new Russian millionaires and poverty stricken pensioners walk the same city streets.",
 	    	place:"Moscow, Russia"
 	    },
 	    /* Malta */
