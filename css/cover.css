@@ -138,6 +138,11 @@ body {
     background-color: #FF6300;
     border: 1px solid #FF6300;
 }
+.img-circle{
+  width:200px;
+  height:200px;
+  padding-bottom: 10px;
+}
 
 /*
  * Footer
