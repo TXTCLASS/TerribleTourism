@@ -17,4 +17,8 @@ Yes, a word salad is an almost incoherent sentence produced by typing too fast a
 ### Attribution:
 Salad Icon by Peter Chlebak via Noun Project - *https://thenounproject.com/molandbarley/*
 
-![Salad Icon](http://txtclass.github.io/TourismWordSalad/img/android-icon-96x96.png "Salad Icon")
+Dachau images Germany4.jpg & Germany5.jpg by [Chicoluz](https://www.flickr.com/photos/chicoluz/) - [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+
+Berchtesgaden Images Germany6.png & Germany7.png by [Joe Ross](https://www.flickr.com/photos/joeross/) - [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+
+
