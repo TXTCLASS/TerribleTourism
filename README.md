@@ -4,7 +4,7 @@
 
 ####A collection of sentences I came across while translating content from one language to another using Google Translate.
 
-live: *https://txtclass.github.io/TourismWordSalad*
+live: *https://thatotherzach.github.io/TourismWordSalad*
 
 ### Why?
 
